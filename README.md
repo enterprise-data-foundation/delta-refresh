@@ -1,4 +1,4 @@
-#Welcome to deltaRefresh!
+# Welcome to deltaRefresh!
 
 **deltaRefresh** makes it easy to generate clean and consistent development environments with fresh and up-to-date testing data. It fully validates and tests your important database backups each time a lower environment gets refreshed. With all environments automatically in sync, deltaRefresh supports automated testing and deployments by bridging gaps and failures caused by "dirty" data.
 
